@@ -2,11 +2,9 @@
 layout: page
 title: About
 permalink: /about/
----
-```{r, fig.width = 2}
-# Small fig.width
-include_graphics(images/IMG_3884sahara.jpg)
-```
+
+![](images/IMG_3882edited_150x150-1.png)
+
 ## Work
 Zack currently serves as the Executive Director of Assessment, Accreditation, and Medical Education for the Campbell University Jerry M. Wallace School of Osteopathic Medicine (CUSOM).  He is an experienced Executive Director with a demonstrated history of working in the higher education industry in assessment, accreditation, and planning. Skilled in various aspects of technology and software applications, needs assessment, program, course, and faculty evaluation, academic advising, assessment, and curriculum development. 
 
@@ -15,7 +13,7 @@ Zack has his Bachelor of Science degree in Mathematics with minors in Computer S
 
 ## More Information
 
-For more information please visit my <a href="https://www.linkedin.com/in/zachary-vaskalis-500b8023/">LinkedIn page</a>.
+For more information please visit my [LinkedIn page](https://www.linkedin.com/in/zachary-vaskalis-500b8023/).
 
 ## Contact me
 
