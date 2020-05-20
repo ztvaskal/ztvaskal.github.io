@@ -20,7 +20,6 @@ For more information please visit my [LinkedIn page](https://www.linkedin.com/in
 
 **_Email:_** [ztvaskal@ncsu.edu](mailto:ztvaskal@ncsu.edu)  
 
-![](images/IMG_3882edited_150x150-1.png)
 
 
 
