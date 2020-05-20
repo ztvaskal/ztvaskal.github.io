@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about/  
 
-![](images/IMG_3882edited_150x150-1.png)
 
 ## Work
 Zack currently serves as the Executive Director of Assessment, Accreditation, and Medical Education for the Campbell University Jerry M. Wallace School of Osteopathic Medicine (CUSOM).  He is an experienced Executive Director with a demonstrated history of working in the higher education industry in assessment, accreditation, and planning. Skilled in various aspects of technology and software applications, needs assessment, program, course, and faculty evaluation, academic advising, assessment, and curriculum development. 
@@ -17,4 +16,9 @@ For more information please visit my [LinkedIn page](https://www.linkedin.com/in
 
 ## Contact me
 
-**_Email:_** [ztvaskal@ncsu.edu](mailto:ztvaskal@ncsu.edu)
+**_Email:_** [ztvaskal@ncsu.edu](mailto:ztvaskal@ncsu.edu)  
+
+![](images/IMG_3882edited_150x150-1.png)
+
+
+
