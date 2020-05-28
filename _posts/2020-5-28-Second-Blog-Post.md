@@ -2,8 +2,7 @@
 layout: post
 title: ST558 - Programming in R
 ---
-<i><b>Everyone in this course had some programming experience coming in (due to the prerequisites).</b></i>  
-<i><b>What are your thoughts on R vs whatever other software you've used?</b></i>    
+<i><b>Everyone in this course had some programming experience coming in (due to the prerequisites).  What are your thoughts on R vs whatever other software you've used?</b></i>    
 
 This question really got me reminiscing back to my teenage years when I first started programming in Pascal and C++ in 9th and 10th grade (I'm sure I could dig up some floppies that have some code saved on them, but I have no way to read them!) and the path which led me to the present day, where taking summer courses like ST 555 - Statistical Programming I and ST 558 - Data Science for Statisticians, has rekindled my love for programming.  One of my co-workers mentioned to me, just a few days ago, that she has never seen me this happy, motivated, and dedicated to my coursework.  It's not her fault she never got to see the old me, the Zack who loved programming so much he attempted double majoring in math and computer science, until I hit operating systems my junior year and decided to cop out with just a minor, but picked up a minor in physics to compensate.  What I didn't know then, that is so completely evident now, is that I have an applied heart.  Theory is beautiful and awe-inspiring.  It astonishes me how these brilliant minds across various fields and disciplines could discover such truths, in often unique and never-before-seen ways.  All that is great, but give me a question to solve and some data, something to make an impact in someone else's life to help them succeed, a way that I can apply this theory with practicality and ingenuity in a different way, and then I am excited.
 
